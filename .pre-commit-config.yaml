@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: rhinogpt-secret-scan
+        name: RhinoGPT secret scan
+        entry: python3 scripts/check_no_secrets.py
+        language: system
+        pass_filenames: false

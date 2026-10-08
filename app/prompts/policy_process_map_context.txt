@@ -1,0 +1,57 @@
+Mapa interno de relacion politica-proceso.
+Usa este mapa solo para identificar que politica se relaciona con un proceso o que procesos dependen de una politica.
+Si el usuario pide contenido, pasos o detalles de la politica/proceso, usa file_search y respeta los vector stores disponibles para su perfil.
+
+Politicas y procesos relacionados:
+- Admission: Admisiones; Comunicación institucional (cliente potencial e interno); Inscripción de estudiantes; Servicios académicos (grados que presta la institución).
+- Analysis of Information: Informes académicos; Planes de Mejoramiento (Altas expectativas); Pruebas Estandarizadas; Recolección y análisis de información (E Survyes); Resultados anuales del plan educativo.
+- Anti-Bullying: Referencia a consejería escolar; Talleres y charlas de intervención para estudiantes.
+- Artificial inteligence: BOT.
+- Audit and Control: Compras y pedidos de almacén; Cuotas reducidas; Retiro de estudiantes; Traslado de estudiantes por falta de pago.
+- Audit and control: Inscripción de estudiantes; Vales de cafetería; Venta de uniformes.
+- Community, Discipline and Evaluation Handbook: Comisión de Evaluación; Comisión de disciplina; Manual de convivencia, disciplina y evaluación; Protocolo de prevención de sustancias; Regimen disciplinario; RevIsión de Mochilas.
+- Culture Book: Actualización de hoja de vida para docentes; Anticipo salarial; Apoyo educativo hijo de colaboradores; Ausencias y permisos de personal (RRHH); Finalización de contrato (RRHH); Integirdad y ética del personal (culture Book); Proceso disciplinario progresivo y despido justificado.
+- Curriculum: Aseguramiento de la calidad educativa; Avance de malla; Currículo nacional e internacional; Malla curricular (estructura).
+- Differentiated Programs: Desarrollo de la creatividad; Emisión de certificados de promoción; Entrega de notas; Planificación anual y de unidad; Planificación semanal; Programa de apoyo educativo (PAE); Proyectos y programas diferenciadores; Refuerzo académico; Seguimiento académico.
+- Evaluation: Pruebas Estandarizadas.
+- Evaluation Framework: Actividades de aprendizaje que promueven un ambiente real y significativo; Entrega de notas; Evaluación Académica; Medición de desempeño (TOT y ELEOT); Proyectos Académicos; Refuerzo académico; Seguimiento académico.
+- Handbook: Actividades de Collage board y pre-vocacional; Adecuaciones; Admisiones; Emisión de transcrip para aplicación al extranjero (College B); Escuela para padres; Feria Universitaria (College B); HighEd Program (College B); Programa y actividades IE; Proyecto de vida (College B); Referencia a consejería escolar; Salidas temprano de 12th (College B); Sociogramas.
+- Information Technology: Baja de usuarios; Daño de equipo; Manejo de activos fijos de tecnología, laboratorio y red institucional; Perdida o daño de equipo; Solicitud de credenciales docente nuevo; Solicitud de equipo; Uso de equipo personal; Uso de impresora; Uso de red.
+- Job descriptor: Descriptores de puesto y JSC (RRHH).
+- Learning adjustment: Adecuaciones.
+- New Teacher: Contratación e inducción de personal.
+- Observation Team: Medición de desempeño (TOT y ELEOT).
+- Platform acceptable use: Uso y manejo de plataformas educativas.
+- Professional Grow: Estrategias de mejora continua para docentes; Professional Development (PD).
+- Professional Growth: Evaluación de desempeño; Rhino Pro.
+- Purchase: Compras y pedidos de almacén.
+- Recess Monitoring: Cuidados de recreo y atención inmediata.
+- Recruitment and selection: Reclutamiento y selección de personal.
+- Renewal of Books ins School: Requerimiento de libros de renta y propiedad; Útiles y material didáctico.
+- Safety: Cambios de salida; Caso de emergencias; Contingencia; Control de entrada y salida de estudiantes; Pase de enfermería.
+- Salary: Anticipo salarial; Evaluación de desempeño; Pago de planilla.
+- Scholarship: Cuotas reducidas.
+- Social Media: Redes sociales.
+- Technology: Grabación de clases; Plan tecnológico; Videos pregrabados.
+- Training: Contratación e inducción de personal.
+- Vision_Mission: Filosofía institucional.
+
+Procesos sin politica asociada en la matriz General:
+- Actividades de celebración.
+- Alimentación para los estudiantes en cafetería.
+- Asambleas cívicas.
+- Calendario anual.
+- Caravana de graduandos.
+- Cartillas organizacional/Organigrama.
+- Colecciones de biblioteca.
+- Creación de sudadero de promoción.
+- Desayuno de graduandos.
+- Giras educativas.
+- Inscripción, pertenencia y participación en clubs y Selecciones.
+- Intercambio (FACES).
+- Orientación Vocacional.
+- Perfiles de egreso.
+- Periódico escolar.
+- Plan estrategico/KPIs institucionales.
+- Programa de padrinos y madrinas.
+- Seguimiento ingreso de estudiantes.
